@@ -42,10 +42,10 @@ const pages = resolvePageToggles({
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "星语者",
+	title: "Citlali",
 
 	// 站点副标题
-	subtitle: "聆听星辰的呢喃，编织记忆的色彩",
+	subtitle: "Listening to the whispers of stars, weaving the colors of memory",
 
 	// 站点 URL
 	site_url: "https://lan.citlali0120.xyz",
@@ -148,7 +148,7 @@ logo: {
 			alt: "✨",
 		},
 		// 导航栏标题
-		title: "星语者",
+		title: "Citlali",
 		// 全宽导航栏，导航栏是否占满屏幕宽度
 		widthFull: false,
 		// 导航菜单对齐方式，left：左对齐，center：居中

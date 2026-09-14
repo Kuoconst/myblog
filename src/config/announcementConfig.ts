@@ -5,7 +5,7 @@ export const announcementConfig: AnnouncementConfig = {
 	title: "",
 
 	// 公告内容
-	content: "欢迎来到星语者博客！聆听星辰的呢喃，编织记忆的色彩，探索技术与艺术的完美融合。",
+	content: "Welcome to Citlali's blog! Listening to the whispers of stars, weaving the colors of memory, exploring the perfect fusion of technology and art.",
 
 	// 是否允许用户关闭公告
 	closable: true,

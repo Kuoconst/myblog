@@ -23,10 +23,10 @@ export const friendsPageConfig: FriendsPageConfig = {
 // 友链配置
 export const friendsConfig: FriendLink[] = [
 	{
-		title: "星语者博客",
+		title: "Citlali",
 		imgurl:
 			"https://weavatar.com/avatar/d252655d40d6874417a720bad0a6c5f77f8f6a1fd2f882f8f338402dc37e4190?s=640",
-		desc: "聆听星辰的呢喃，编织记忆的色彩",
+		desc: "Death is not the end, but oblivion is; I live to be the eyes of those who have passed.",
 		siteurl: "https://lan.citlali0120.xyz",
 		tags: ["Blog"],
 		weight: 10,
