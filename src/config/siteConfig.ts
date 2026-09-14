@@ -42,24 +42,25 @@ const pages = resolvePageToggles({
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "Citlali",
+	title: "星语者",
 
 	// 站点副标题
-	subtitle: "Demo site",
+	subtitle: "聆听星辰的呢喃，编织记忆的色彩",
 
 	// 站点 URL
-	site_url: "https://your-domain.com",
+	site_url: "https://lan.citlali0120.xyz",
 
 	// 站点描述
 	description:
-		"Citlali 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。",
+		"星语者博客，一个基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板。在这里，我们聆听星辰的呢喃，编织记忆的色彩，探索技术与艺术的完美融合。专为技术爱好者和内容创作者设计，提供丰富的功能模块和高度可定制的界面，助您打造专业且美观的个人博客网站。",
 
 	// 站点关键词
 	keywords: [
-		"Citlali",
-		"Fuwari",
+		"星语者",
+		"星辰",
+		"记忆",
+		"色彩",
 		"Astro",
-		"ACGN",
 		"博客",
 		"技术博客",
 		"静态博客",
@@ -140,14 +141,14 @@ export const siteConfig: SiteConfig = {
 		// image 和 url 类型可额外设置 valueDark，用于暗色模式下显示另一张图片，不设置则亮暗色共用 value
 		// 例如: { type: "image", value: "assets/images/logo.png", valueDark: "assets/images/logo-dark.png", alt: "Logo" }
 		// 使用 Astro 图标库时不需要设置 valueDark，图标会自动跟随主题亮暗色切换
-		logo: {
+logo: {
 			type: "image",
-			value: "assets/images/logo/citlali-light.jpg",
-			valueDark: "assets/images/logo/citlali-dark.webp",
-			alt: "🍀",
+			value: "assets/images/logo/citlali-light.png",
+			valueDark: "assets/images/logo/citlali-dark.png",
+			alt: "✨",
 		},
 		// 导航栏标题
-		title: "Citlali",
+		title: "星语者",
 		// 全宽导航栏，导航栏是否占满屏幕宽度
 		widthFull: false,
 		// 导航菜单对齐方式，left：左对齐，center：居中
@@ -162,7 +163,7 @@ export const siteConfig: SiteConfig = {
 	},
 
 	// 站点开始日期，用于统计运行天数
-	siteStartDate: "2025-01-01",
+	siteStartDate: "2024-01-01",
 
 	// 站点时区（IANA 时区字符串），用于格式化bangumi、rss里的构建日期时间等等..
 	// 示例："Asia/Shanghai", "UTC", 如果为空，则按照构建服务器的时区进行时区转换
@@ -292,13 +293,13 @@ export const siteConfig: SiteConfig = {
 	// ── Bilibili配置 ──────────────────────────────────
 	bilibili: {
 		// 你的 Bilibili 用户 UID
-		uid: "38932988",
+		uid: "Kuoconst",
 	},
 
 	// ── 番组计划bangumi配置 ──────────────────────────────────
 	bangumi: {
 		// Bangumi用户ID
-		userId: "1143164",
+		userId: "Kuoconst",
 		// 数据模式：static=构建时获取，dynamic=客户端实时获取
 		// static 模式在构建时获取数据并静态渲染，部署后数据不更新
 		// dynamic 模式在浏览器中实时请求 API，始终显示最新数据
@@ -322,7 +323,7 @@ export const siteConfig: SiteConfig = {
 	// ── VNDB配置 ──────────────────────────────────
 	vndb: {
 		// VNDB 用户 ID
-		userId: "u358128",
+		userId: "Kuoconst",
 		// 数据模式：static=构建时获取，dynamic=客户端实时获取
 		// static 模式在构建时获取数据并静态渲染，部署后数据不更新
 		// dynamic 模式在浏览器中实时请求 API，始终显示最新数据
@@ -342,7 +343,7 @@ export const siteConfig: SiteConfig = {
 	// ── MyAnimeList配置 ──────────────────────────────────
 	mal: {
 		// MyAnimeList 用户名（列表需为公开状态，私密列表无法读取）
-		username: "cuteleaf",
+		username: "Kuoconst",
 		// MyAnimeList Client ID，在 https://myanimelist.net/apiconfig 注册免费应用后获取
 		clientId: "	0ef34371450f9c6c809deaadec6aa8f3",
 		// MAL API 地址

@@ -70,17 +70,17 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 是否启用主页横幅文字
 			enable: true,
 			// 主页横幅主标题
-			title: "Lovely Citlali!",
+			title: "星语者",
 			// 主页横幅主标题字体大小
 			titleSize: "4.5rem",
 			// 主页横幅副标题
 			subtitle: [
-				"In Reddened Chrysalis, I Once Rest",
-				"From Shattered Sky, I Free Fall",
-				"Amidst Silenced Stars, I Deep Sleep",
-				"Upon Lighted Fyrefly, I Soon Gaze",
-				"From Undreamt Night, I Thence Shine",
-				"In Finalized Morrow, I Full Bloom",
+				"聆听星辰的呢喃",
+				"编织记忆的色彩",
+				"迷烟中的智者",
+				"黑曜石的守护者",
+				"轻小说与酒的收藏家",
+				"星曜与盟友的见证者"
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",

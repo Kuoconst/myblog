@@ -5,7 +5,7 @@ export const announcementConfig: AnnouncementConfig = {
 	title: "",
 
 	// 公告内容
-	content: "欢迎来到我的博客！这是一则示例公告。",
+	content: "欢迎来到星语者博客！聆听星辰的呢喃，编织记忆的色彩，探索技术与艺术的完美融合。",
 
 	// 是否允许用户关闭公告
 	closable: true,

@@ -139,9 +139,9 @@ export const booknavConfig: BooknavGroup[] = [
 		weight: 70,
 		items: [
 		{
-			title: "茜特菈莉",
-			url: "https://blog.cuteleaf.cn",
-			desc: "孤独不是无人相伴，而是漫长岁月里，只有自己记得所有故事的重量。",
+			title: "星语者博客",
+			url: "https://lan.citlali0120.xyz",
+			desc: "聆听星辰的呢喃，编织记忆的色彩",
 			weight: 9,
 		},
 		],

@@ -17,11 +17,11 @@ export const galleryConfig: GalleryConfig = {
 		// 每添加一个数组项就相当于添加了一个相册，记得在 public/gallery/ 目录下创建对应的子目录并放入图片
 		{
 			id: "citlali-2026",
-			name: "茜特菈莉",
-			description: "我们抓不住时光，却可以成为时光的织物，将离散的过往织成星图。",
-			location: "原神",
+			name: "星辰记忆",
+			description: "聆听星辰的呢喃，编织记忆的色彩，记录美好时光",
+			location: "星语者的世界",
 			date: "2026-01-01",
-			tags: ["原神", "茜特菈莉"],
+			tags: ["星辰", "记忆", "色彩"],
 		},
 		{
 			id: "encrypted-test",

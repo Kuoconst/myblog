@@ -23,11 +23,11 @@ export const friendsPageConfig: FriendsPageConfig = {
 // 友链配置
 export const friendsConfig: FriendLink[] = [
 	{
-		title: "茜特菈莉",
+		title: "星语者博客",
 		imgurl:
 			"https://weavatar.com/avatar/d252655d40d6874417a720bad0a6c5f77f8f6a1fd2f882f8f338402dc37e4190?s=640",
-		desc: "万物终会褪色，但被好好记住，便是另一种永恒。",
-		siteurl: "https://blog.cuteleaf.cn",
+		desc: "聆听星辰的呢喃，编织记忆的色彩",
+		siteurl: "https://lan.citlali0120.xyz",
 		tags: ["Blog"],
 		weight: 10,
 		enabled: true,
